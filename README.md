@@ -1,10 +1,22 @@
 # Customer_behavior_analysis
-Data Analysis project showcasing customer behavior using python, sql and power bi
+# Project Overview
+This project analyzes customer shopping behavior for a retail company to uncover patterns in purchasing, customer segments, and factors influencing buying decisions. The goal is to help the business improve sales performance, customer engagement, and marketing strategies
 
-The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
 
-Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
+# Problem Statement
+A retail company wants to understand how customers behave across:
+Demographics (age, gender)
+Product categories
+Subscription status
+Discounts and shipping preferences
 
-Data Analysis (SQL): Simulate business transactions, and run queries to extract insights on customer segments, loyalty, and purchase drivers.
+Business Question:
+How can the company leverage customer data to identify trends, improve engagement, and optimize business strategies?
 
-Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
+# Tools & Technologies
+SQL (PostgreSQL)
+Python (Pandas) 
+Power BI (Dashboard & Visualization)
+
+# Dashboard Preview
+<img width="515" height="332" alt="image" src="https://github.com/user-attachments/assets/48ea907a-2c46-4f82-a9b1-ff7528f31adb" />
